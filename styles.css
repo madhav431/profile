@@ -1,0 +1,38 @@
+body{
+    background-color: #C8E3D4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #655C56;
+    
+
+
+}
+h1{
+    color: #6D9886;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color: #6D9886;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: #6D9886;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p{
+    color: #655C56;
+}
+
+hr{
+    color: #EAE7C6;
+    border-style: dotted;
+    width: 10px;
+}
+th{
+    color: #6D9886;
+}
+tbody{
+  text-align: center;  
+}
